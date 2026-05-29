@@ -1,12 +1,10 @@
 # ---- EDIT THESE ----
-title: Your Name
-tagline: What you do, in one line.
-email: you@stanford.edu
+title: Tyler Matteson
+tagline: Graduate Student at Stanford
+email: tylerjm@stanford.edu
 # Social links (delete any you don't want)
-github: yourusername
-twitter:
-linkedin: yourusername
-scholar:           # Google Scholar profile URL
+github: tylermatteson22
+linkedin: tyler-j-matteson
 
 # ---- Leave the rest alone ----
 markdown: kramdown
